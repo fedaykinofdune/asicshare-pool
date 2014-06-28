@@ -1,0 +1,5 @@
+{
+    "name": "BatCoin",
+    "symbol": "CAT",
+    "algorithm": "scrypt"
+}
