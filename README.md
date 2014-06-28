@@ -6,3 +6,5 @@ entirely in Node.js. It contains a stratum poolserver; reward/payment/share proc
 responsive user-friendly front-end website featuring mining instructions, in-depth live statistics, and an admin center.
 
 This is a fork to payout in DOGE
+
+####
